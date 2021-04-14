@@ -1,0 +1,10 @@
+request1:
+  url: https://httpbin.ceshiren.com/get
+  method: get
+  param:
+    a: b
+request2:
+  url: https://httpbin.ceshiren.com/post
+  method: post
+  param:
+    c: d
