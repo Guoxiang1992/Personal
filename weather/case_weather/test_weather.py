@@ -2,7 +2,7 @@
 # @File : case_weather.py
 import allure
 
-from ..weather_demo.weather import Weather
+from weather.weather_demo.weather import Weather
 @allure.feature('Test Weather api')
 class TestWeather:
     def setup(self):
